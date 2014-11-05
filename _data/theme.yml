@@ -1,0 +1,23 @@
+# Theme customization - please change from the defaults!
+
+# Color for top bar, links, etc
+highlight_color: '#B20000'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: mbutler
+  twitter: CaptainWalton
+  vimeo:  user2418927 
+  soundcloud:  matthew_butler
+  rhizome: matthewbutler   
+  linkedin: matthewtaylorbutler
+
+name: Matthew Butler
+email: matthewtbutler@gmail.com
+tagline: "sufficiently advanced technology"
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: UA-xxxx-x
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: false

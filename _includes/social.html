@@ -1,0 +1,44 @@
+Follow me:
+<div id="stalker">
+  {% if site.data.theme.social.github %}
+  <a title="{{ site.data.theme.social.github }} on Github" href="https://github.com/{{ site.data.theme.social.github }}">
+    <i class="fa fa-github-square"></i>
+  </a>
+  {% endif %}
+
+  {% if site.data.theme.social.vimeo %}
+  <a title="{{ site.data.theme.social.vimeo }} on Vimeo" href="https://vimeo.com/{{ site.data.theme.social.vimeo }}/">
+    <i class="fa fa-vimeo-square"></i>
+  </a>
+  {% endif %}  
+
+  {% if site.data.theme.social.twitter %}
+  <a title="{{ site.data.theme.social.twitter }} on Twitter" href="https://twitter.com/{{ site.data.theme.social.twitter }}">
+    <i class="fa fa-twitter-square"></i>
+  </a>
+  {% endif %}
+
+  {% if site.data.theme.social.linkedin %}
+  <a title="{{ site.data.theme.linkedin }} on LinkedIn" href="https://www.linkedin.com/in/{{ site.data.theme.social.linkedin }}">
+    <i class="fa fa-linkedin-square"></i>
+  </a>
+  {% endif %}
+
+  <a title="RSS feed" id="rss" href="/atom.xml">
+    <i class="fa fa-rss-square"></i>
+  </a>
+
+  {% if site.data.theme.social.rhizome %}
+  <a title="{{ site.data.theme.rhizome }} on Rhizome" href="http://www.rhizome.com/profile/{{ site.data.theme.social.rhizome }}">
+    <i class="fa fa-cube"></i>
+  </a>
+  {% endif %}
+
+  {% if site.data.theme.social.soundcloud %}
+  <a title="{{ site.data.theme.social.soundcloud }} on Soundcloud" href="https://soundcloud.com/{{site.data.theme.social.soundcloud }}">     
+      <i class="fa fa-soundcloud"></i>
+  </a>
+  {% endif %}
+
+
+</div>
