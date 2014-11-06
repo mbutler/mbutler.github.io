@@ -1,8 +1,8 @@
 ---
-title: 'The Wide Shot: Five fantastic bands you may have missed at Mission Creek'
+title: 'Five fantastic bands you may have missed at Mission Creek'
 author: Matthew Butler
 layout: post
-permalink: /the-wide-shot-five-fantastic-bands-you-may-have-missed-at-mission-creek
+permalink: /five-fantastic-bands-you-may-have-missed-at-mission-creek
 categories:
   - Uncategorized
 ---
