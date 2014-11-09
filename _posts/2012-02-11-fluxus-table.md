@@ -13,7 +13,7 @@ categories:
 
 The University of Iowa Libraries is home to the [Fluxus West Collection], a group of physical art objects made by artists Joseph Beuys, Yoko Ono, George Brecht, Alison Knowles, Ken Friedman, A-Yo, George Maciunas, and others. In early 2012, I developed this 3D visualization system based on curation from Stephen Voyce, assistant professor of English at Iowa. 
 
-The 3D scanning studio was based on a similar configuration in use at the University of Illinois Libraries. 
+The 3D scanning studio was based on a similar configuration in use at the [University of Illinois Libraries]. Library staff at Illinois had used Strata to stitch together photos taken from six different angles and we decided on the same approach.
 
 > using a Canon EOS 5D Mark II Digital Camera with a Canon Normal EF 50mm f/2.5 > Compact Macro Autofocus Lens and a Canon Wide Angle EF 24mm f/2.8 Autofocus Lens.  We take 6 still photos (front, back, both sides, top, bottom) which are served up as compound objects through our ContentDM system.  We also take many additional photos which are imported into Strata 3D software and from which we are creating 3 dimensional interactive models.  Users can link out from the ContentDM record to the java script that displays the 3D model.
 
@@ -21,3 +21,4 @@ I then built a Flash container for the Strata Pro export for display on a Micros
 
  
 [Fluxus West Collection]:http://digital.lib.uiowa.edu/cdm/search/collection/fluxus/
+[University of Illinois Libraries]:Sousa Archives Music Instrument Digital Image and 3D Model Collection
