@@ -21,4 +21,4 @@ I then built a Flash container for the Strata Pro export for display on a Micros
 
  
 [Fluxus West Collection]:http://digital.lib.uiowa.edu/cdm/search/collection/fluxus/
-[University of Illinois Libraries]:Sousa Archives Music Instrument Digital Image and 3D Model Collection
+[University of Illinois Libraries]:http://imagesearchnew.library.illinois.edu/cdm/landingpage/collection/sousa
