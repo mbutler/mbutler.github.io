@@ -9,11 +9,11 @@ categories:
 <img src="http://www.mbutler.org/images/epistle-postcard.jpg" width="500px" />
 [Reading, Ivan Kramskoy. 1863]
 
+Four minor characters from 19th century epistolary novels break free on twitter and converse with each other as well as any other person who engages with them. A new work of collaborative fiction between bots and real people. @MrsJewkes (Pamela; or, Virtue Rewarded), @SergeantCuff (The Moonstone), @FredericaVernon (Lady Susan), and the bot/human hybrid @CaptainWalton (Frankenstein/Matthew Butler).
+
 Originally developed during the 2012 Iowa City (UNESCO City of Literature) The Humanities and Technology Camp. 
 
-[Fiction bots] that converse with each other as well as human performers across a diverse physical and media landscape. Performative possibilities include experimental theater, literary readings, and visual or concrete poetry. Bots can be configured to behave in collaboration with any number of computer/human performers in conjunction with other artistic works involving textual material.  
-
-In this sample implementation, minor characters break free from their epistolary novels and converse to create a new work of fiction using Twitter accounts. @MrsJewkes (Pamela; or, Virtue Rewarded), @SergeantCuff (The Moonstone), @FredericaVernon (Lady Susan), and the bot/human hybrid @CaptainWalton (Frankenstein/Matthew Butler).
+[Fiction bots] tweet individual sentences from source text, listening and responding in a network of autonomous character-writers.
 
 [Reading, Ivan Kramskoy. 1863]:http://www.wikiart.org/en/ivan-kramskoy/reading-1863
 [Fiction bots]:https://github.com/mbutler/fiction-bot
