@@ -42,7 +42,7 @@ II. When a GENERATE button is pressed
 
 3. Capitalize any letter directly following the PP, Punctuation, Sentence Ender tag then remove the POS tags from the SUBSTITUTION text. Display the new text in a field called RECOMBINED.
 
-```
+`
 #!/usr/bin/perl
 use strict;
 use warnings;
@@ -171,4 +171,4 @@ print end_table(),
       p(strong('cut-up:'), br,
         textarea(-rows => 10, -name => 'recombined', -columns => 100)),
       end_form;
-```
+`
